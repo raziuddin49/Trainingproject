@@ -1,0 +1,14 @@
+D:\dotnet\TEstApplication\TEstApplication\bin\TEstApplication.dll.config
+D:\dotnet\TEstApplication\TEstApplication\bin\TEstApplication.dll
+D:\dotnet\TEstApplication\TEstApplication\bin\TEstApplication.pdb
+D:\dotnet\TEstApplication\TEstApplication\obj\Debug\TEstApplication.csproj.AssemblyReference.cache
+D:\dotnet\TEstApplication\TEstApplication\obj\Debug\TEstApplication.csproj.CoreCompileInputs.cache
+D:\dotnet\TEstApplication\TEstApplication\obj\Debug\TEstApplication.dll
+D:\dotnet\TEstApplication\TEstApplication\obj\Debug\TEstApplication.pdb
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\bin\TEstApplication.dll.config
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\bin\TEstApplication.dll
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\bin\TEstApplication.pdb
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\obj\Debug\TEstApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\obj\Debug\TEstApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\obj\Debug\TEstApplication.dll
+C:\Users\HP\Desktop\New folder\TEstApplication\TEstApplication\TEstApplication\obj\Debug\TEstApplication.pdb
