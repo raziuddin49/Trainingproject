@@ -17,7 +17,7 @@ namespace TEstApplication
         protected void Page_Load(object sender, EventArgs e)
         {
             fillgrid();
-            // past
+            // pastAjaz
         }
 
         protected void btnsave_Click(object sender, EventArgs e)
