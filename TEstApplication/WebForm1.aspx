@@ -54,7 +54,7 @@
                         <asp:BoundField DataField="cityid" HeaderText="City Id"/>
                         <asp:TemplateField HeaderText="Edit">
                             <ItemTemplate>
-                                <asp:LinkButton runat="server" ID="editbtn" Text="Edit"></asp:LinkButton>
+                                <asp:LinkButton runat="server" ID="editbtn" Text="edit" OnClientClick='<%# "return calledit(" + Eval("u_id") + ");" %>'></asp:LinkButton>
                             </ItemTemplate>
                         </asp:TemplateField>
                         <asp:TemplateField HeaderText="Delete">
@@ -70,4 +70,13 @@
         </div>
     </form>
 </body>
+<script>
+    function calledit(id) {
+        window.location.href = "http://localhost:9112/WebForm1.aspx?id=" + id;
+        return false;
+
+
+
+    }
+</script>
 </html>

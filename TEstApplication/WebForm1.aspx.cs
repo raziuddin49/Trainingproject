@@ -16,6 +16,23 @@ namespace TEstApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Request.QueryString["id"]!= null)
+                
+            {
+                string id = Request.QueryString["id"].ToString();
+                SqlConnection cnt = new SqlConnection("Data Source=.;Initial Catalog=db_practice; User id=sa; Password=tuba1234;");
+                string qry = "select u_id, fname,lname,gender,cityid from users where u_id =2";
+                DataTable dts = new DataTable();
+                cnt.Open();
+                SqlDataAdapter sqlda = new SqlDataAdapter(qry, cnt);
+                sqlda.Fill(dts);
+                cnt.Close();
+                
+
+               
+            }
+        
+
             fillgrid();
             // past
         }
